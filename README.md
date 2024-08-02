@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mohitjh59814802" target="blank"><img src="https://img.shields.io/twitter/follow/mohitjh59814802?logo=twitter&style=for-the-badge" alt="mohitjh59814802" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **ASP.NET & SQL**
 
 - 💬 Ask me about **MERN**
 
