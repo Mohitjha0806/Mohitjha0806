@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohit Jha</h1>
-<h3 align="center">A passionate Full Stack developer(MERN) from India</h3>
+<h3 align="center">A passionate .NET Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitjha0806&label=Profile%20views&color=0e75b6&style=flat" alt="mohitjha0806" /> </p>
 
