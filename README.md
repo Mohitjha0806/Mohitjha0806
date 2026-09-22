@@ -49,17 +49,6 @@ alt="C#" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg"
 alt=".NET" width="45" height="45"/>
 </a>
-
-<a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg"
-alt="ASP.NET Core" width="45" height="45"/>
-</a>
-
-<a href="https://learn.microsoft.com/en-us/ef/core/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg"
-alt="Entity Framework Core" width="45" height="45"/>
-</a>
-
 </p>
 
 **Technologies:**  
